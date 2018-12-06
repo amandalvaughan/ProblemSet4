@@ -16,6 +16,6 @@ FLIGHT CLASSIFICATION
 
 Operating Airline
 
-| Passenger Count (primary key) | Operating Airline Code (foreign key) | Operating Airline |
-| --- | ---| full name |
+| Passenger Count (primary key) | Operating Airline Code (foreign key) | Operating Airline (full name) |
+| --- | ---| --- |
 | Integer | String | String |
