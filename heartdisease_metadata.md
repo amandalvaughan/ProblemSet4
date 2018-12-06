@@ -26,4 +26,4 @@ The columns in the dataset are in the table below.
 | Location ID | each County assigned numberical Location ID |
 | Location 1 | latitude/longitude |
 
-I would create gendered tables and ethnic tables, if I had the time
+I would create gendered tables and ethnic tables, if I had the time.
