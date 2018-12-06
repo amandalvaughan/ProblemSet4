@@ -2,7 +2,7 @@ This file contains information regarding Air Traffic Statistics and is provided 
 
 Data were downloaded December 5, 2018.
 
-The columns in the dataset are in the table below.
+The columns in the dataset are in the table below. 
 
 | Column | Description |
 | --- | --- |
