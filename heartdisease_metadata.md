@@ -25,3 +25,5 @@ The columns in the dataset are in the table below.
 | Topic ID | all listed as T2 |
 | Location ID | each County assigned numberical Location ID |
 | Location 1 | latitude/longitude |
+
+I would create gendered tables and ethnic tables, if I had the time
